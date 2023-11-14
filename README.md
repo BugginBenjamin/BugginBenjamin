@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BugginBenjamin
+- 👀 I’m interested in becoming a software engineer!
+- 🌱 I’m currently learning the basics of coding!
+- 💞️ I’m looking to collaborate on anything that I can understand so far :)
